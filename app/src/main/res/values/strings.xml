@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">安卓连点器</string>
+    <string name="accessibility_service_description">安卓连点器无障碍服务，用于实现自动点击功能</string>
+</resources>
